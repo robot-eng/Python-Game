@@ -11,3 +11,8 @@
 <p align="center">
 <img src="Mario-Level-1/img/m.gif" width="480" height="350">
 </p>
+
+- rock_paper_scissors
+<p align="center">
+<img src="rock_paper_scissors/img/r-p-t.gif" width="480" height="200">
+</p>
