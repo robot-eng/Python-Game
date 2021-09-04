@@ -21,5 +21,12 @@
 <img src="block_game/block.gif" width="200" height="350">
 </p>
 
+- Tic Tac Toe (XO)
+> for 2 player
+> credit : https://www.youtube.com/watch?v=pc7XhHxSgrM
+<p align="center">
+<img src="XO/ox.png" width="350" height="350">
+</p>
+
 ## CODE
 - siri is a python that uses the principle from speechrecognition
