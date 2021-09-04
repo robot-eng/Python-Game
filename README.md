@@ -16,3 +16,8 @@
 <p align="center">
 <img src="rock_paper_scissors/img/r-p-t.gif" width="480" height="200">
 </p>
+
+- block_game
+<p align="center">
+<img src="block_game/block.gif" width="200" height="350">
+</p>
