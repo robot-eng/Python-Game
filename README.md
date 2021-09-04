@@ -28,5 +28,5 @@
 <img src="XO/ox.png" width="350" height="350">
 </p>
 
-## CODE
+## CODEING
 - siri is a python that uses the principle from speechrecognition
